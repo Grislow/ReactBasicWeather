@@ -1,3 +1,3 @@
-# ReduxSimpleWeather
+# ReactSimpleWeather
 
 Basic react-redux app
